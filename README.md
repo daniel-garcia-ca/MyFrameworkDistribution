@@ -1,0 +1,2 @@
+# MyFrameworkDistribution
+test pod xcframework
